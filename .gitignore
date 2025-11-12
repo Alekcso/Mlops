@@ -1,14 +1,10 @@
-# Виртуальное окружение 
 .venv/
-# Кэш Python 
-__pycache__/ 
-*.pyc 
-# Данные и артефакты 
-data/processed/ 
-logs/ 
-models/ 
-mlruns/ 
-# IDE и служебные файлы 
-.vscode/ 
-.idea/ 
-.DS_Store 
+__pycache__/
+*.pyc
+data/processed/
+logs/
+models/
+mlruns/
+.vscode/
+.idea/
+.DS_Store
