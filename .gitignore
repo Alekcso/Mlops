@@ -1,10 +1,17 @@
+# Virtual environment
 .venv/
+ECHO is off.
+# Python cache
 __pycache__/
 *.pyc
+ECHO is off.
+# Data and artifacts
 data/processed/
 logs/
 models/
 mlruns/
+ECHO is off.
+# IDE and system files
 .vscode/
 .idea/
 .DS_Store
