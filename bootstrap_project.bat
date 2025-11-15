@@ -78,6 +78,6 @@ git add .
 git commit -m "Project bootstrap: environment, dependencies, Git setup"
 
 echo ---------------------------------------------
-echo ✅ BOOTSTRAP COMPLETE
+echo BOOTSTRAP COMPLETE
 echo ---------------------------------------------
 pause
