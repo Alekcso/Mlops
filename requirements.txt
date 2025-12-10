@@ -6,3 +6,6 @@ nltk
 mlflow
 fastapi
 uvicorn
+gradio
+skl2onnx
+onnxruntime

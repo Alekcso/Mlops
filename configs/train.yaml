@@ -1,0 +1,14 @@
+train:
+  data_path: "data/processed/reviews_binary_clean.csv"
+  target_col: "sentiment"
+
+  # пути для сохранения моделей
+  model_out: "models/model_lr_binary.pkl"
+  vectorizer_out: "models/tfidf_vectorizer_binary.pkl"
+  log_path: "logs/report_binary.txt"
+
+  # гиперпараметры
+  max_features: 5000
+  ngram_range: [1, 2]
+  random_state: 42
+  multi_class: false

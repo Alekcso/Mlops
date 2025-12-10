@@ -1,0 +1,12 @@
+train:
+  data_path: "data/processed/reviews_3class_clean_v2.csv"
+  target_col: "sentiment_3class"
+
+  model_out: "models/model_exp3.pkl"
+  vectorizer_out: "models/vectorizer_exp3.pkl"
+  log_path: "logs/report_exp3.txt"
+
+  max_features: 5000
+  ngram_range: [1, 2]
+  random_state: 42
+  multi_class: true

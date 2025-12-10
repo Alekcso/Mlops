@@ -1,0 +1,12 @@
+train:
+  data_path: "data/processed/reviews_binary_clean_v1.csv"
+  target_col: "sentiment"
+
+  model_out: "models/model_exp1.pkl"
+  vectorizer_out: "models/vectorizer_exp1.pkl"
+  log_path: "logs/report_exp1.txt"
+
+  max_features: 5000
+  ngram_range: [1, 1]
+  random_state: 42
+  multi_class: false

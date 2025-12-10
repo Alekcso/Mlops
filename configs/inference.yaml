@@ -1,0 +1,6 @@
+inference:
+  # бинарная модель (лучший эксперимент exp2)
+  binary_model_path: "models/model_exp2.pkl"
+
+  # трёхклассовая модель (эксперимент exp3)
+  class3_model_path: "models/model_exp3.pkl"

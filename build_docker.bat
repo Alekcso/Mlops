@@ -5,7 +5,7 @@ echo ---------------------------------------------
 echo    BUILDING DOCKER IMAGE FOR MLOPS PROJECT
 echo ---------------------------------------------
 
-cd /d "C:\Users\sergb\Py2025\09-Sep\Big_Data\mlops-sentiment-netflix"
+cd /d "C:\Users\akimo\OneDrive\Desktop\mlops-sentiment-netflix"
 
 :: Check Docker
 docker --version >nul 2>&1

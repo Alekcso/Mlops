@@ -5,7 +5,7 @@ echo ---------------------------------------------
 echo   BOOTSTRAPPING MLOPS SENTIMENT PROJECT
 echo ---------------------------------------------
 
-cd /d "C:\Users\sergb\Py2025\09-Sep\Big_Data\mlops-sentiment-netflix"
+cd /d "C:\Users\akimo\OneDrive\Desktop\mlops-sentiment-netflix"
 
 :: Step 1. Create venv if missing
 if not exist ".venv\" (
@@ -78,6 +78,6 @@ git add .
 git commit -m "Project bootstrap: environment, dependencies, Git setup"
 
 echo ---------------------------------------------
-echo BOOTSTRAP COMPLETE
+echo ✅ BOOTSTRAP COMPLETE
 echo ---------------------------------------------
 pause

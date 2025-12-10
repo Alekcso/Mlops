@@ -5,7 +5,7 @@ echo ---------------------------------------------
 echo    RUNNING FULL MLOPS PIPELINE
 echo ---------------------------------------------
 
-cd /d "C:\Users\sergb\Py2025\09-Sep\Big_Data\mlops-sentiment-netflix"
+cd /d "C:\Users\akimo\OneDrive\Desktop\mlops-sentiment-netflix"
 
 :: Activate venv
 call .\.venv\Scripts\activate
