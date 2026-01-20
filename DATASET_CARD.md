@@ -84,4 +84,4 @@
 ---
 
 ## 8. Автор
-Sergei Belkov, 2025
+ALEX
