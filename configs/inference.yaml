@@ -4,3 +4,4 @@ inference:
 
   # трёхклассовая модель (эксперимент exp3)
   class3_model_path: "models/model_exp3.pkl"
+
