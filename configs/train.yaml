@@ -12,3 +12,4 @@ train:
   ngram_range: [1, 2]
   random_state: 42
   multi_class: false
+
