@@ -46,3 +46,4 @@ def predict(data: InputText):
         pred = model_binary.predict(text)[0]
 
     return {"sentiment": pred, "mode": data.mode}
+
