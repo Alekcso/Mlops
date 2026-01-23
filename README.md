@@ -152,3 +152,4 @@ pipeline-diagram.md
 
 ## 11. Автор
 ALEX
+
