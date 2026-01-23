@@ -26,3 +26,4 @@ EXPOSE 8000
 
 # 8. Команда запуска API
 CMD ["uvicorn", "src.inference:app", "--host", "0.0.0.0", "--port", "8000"]
+
