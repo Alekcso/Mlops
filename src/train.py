@@ -136,3 +136,4 @@ if __name__ == "__main__":
         random_state=params["random_state"],
         multi_class=params["multi_class"],
     )
+
