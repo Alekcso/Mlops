@@ -33,3 +33,4 @@ I --> J[FastAPI /predict (3-class)]
 4. Выбор лучших моделей  
 5. Упаковка в FastAPI  
 6. Деплой через Docker
+
